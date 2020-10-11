@@ -18,27 +18,33 @@
                 <a href="#mars" class = "button">MARS</a>
                 <a href="#pluto" class = "button">PLUTO</a>
             </div>
+             <a id= "sun">
             <div class="content">
-                 <a id= "sun"><div class="floating_text"><center>THE SUN IS NOT WHAT YOU THINK</center></div></a>
+                <div class="floating_text"><center>THE SUN IS NOT WHAT YOU THINK</center></div>
                 <div class="sun"></div>
                 <div class="text">
                     <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie viverra dui at malesuada. Donec id nunc sed arcu fringilla ornare non vitae mi. Praesent venenatis orci nec dui aliquet convallis. Sed posuere lorem eu rutrum convallis. Aenean faucibus mauris eget orci porta suscipit. Praesent non laoreet sapien, vel euismod tellus. Maecenas gravida quam accumsan ante congue, ut fermentum arcu pharetra. Aliquam erat volutpat. Nam odio erat, hendrerit vitae ante eu, gravida rhoncus sapien. Etiam luctus pharetra felis, id gravida lectus luctus vestibulum. Vivamus blandit varius velit quis ultricies. Etiam interdum vehicula metus, tincidunt pretium nunc pulvinar tincidunt. Nulla eu ipsum in ante cursus dictum. In hac habitasse platea dictumst. Etiam et ultricies orci, sed pretium orci.</h1>
                 </div>
             </div>
+                 </a>
+            <a id= "mars">
             <div class="content">
-                <a id= "mars"><div class="floating_text">MARS IS THE NEW EARTH</div></a>
+                <div class="floating_text">MARS IS THE NEW EARTH</div>
                 <div class="mars"></div>
                 <div class="text">
                     <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie viverra dui at malesuada. Donec id nunc sed arcu fringilla ornare non vitae mi. Praesent venenatis orci nec dui aliquet convallis. Sed posuere lorem eu rutrum convallis. Aenean faucibus mauris eget orci porta suscipit. Praesent non laoreet sapien, vel euismod tellus. Maecenas gravida quam accumsan ante congue, ut fermentum arcu pharetra. Aliquam erat volutpat. Nam odio erat, hendrerit vitae ante eu, gravida rhoncus sapien. Etiam luctus pharetra felis, id gravida lectus luctus vestibulum. Vivamus blandit varius velit quis ultricies. Etiam interdum vehicula metus, tincidunt pretium nunc pulvinar tincidunt. Nulla eu ipsum in ante cursus dictum. In hac habitasse platea dictumst. Etiam et ultricies orci, sed pretium orci.</h1>
                 </div>
             </div>
+                </a>
+            <a id= "pluto">
             <div class="content">
-                <a id= "pluto"><div class="floating_text">LONELY PLUTO</div></a>
+                <div class="floating_text">LONELY PLUTO</div>
                 <div class="pluto"></div>
                 <div class="text">
                     <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In molestie viverra dui at malesuada. Donec id nunc sed arcu fringilla ornare non vitae mi. Praesent venenatis orci nec dui aliquet convallis. Sed posuere lorem eu rutrum convallis. Aenean faucibus mauris eget orci porta suscipit. Praesent non laoreet sapien, vel euismod tellus. Maecenas gravida quam accumsan ante congue, ut fermentum arcu pharetra. Aliquam erat volutpat. Nam odio erat, hendrerit vitae ante eu, gravida rhoncus sapien. Etiam luctus pharetra felis, id gravida lectus luctus vestibulum. Vivamus blandit varius velit quis ultricies. Etiam interdum vehicula metus, tincidunt pretium nunc pulvinar tincidunt. Nulla eu ipsum in ante cursus dictum. In hac habitasse platea dictumst. Etiam et ultricies orci, sed pretium orci.</h1>
                 </div>
             </div>
+                </a>
             <div class="footer">
                 <ul>
                     <li><i class="fab fa-facebook-f"></i></li>
